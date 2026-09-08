@@ -76,4 +76,11 @@ Eliminar productos.
 Gestionar citas.
 
 Ver pedidos realizados.
+# Modelo Entidad - Relacion
 
+
+![56](img/DIAGRAMA%20UNO.jpg "56")
+
+# Modelo Relacional
+
+![56](img/modelo%20%20relacional.jpg "56")
